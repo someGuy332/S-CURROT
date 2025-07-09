@@ -22,3 +22,4 @@ After running the desired amount of seeds, you can visualize the results via
 cd misc
 ./visualize_results.sh
 ```
+This repository is originally based on "Constrained Optimal Transport(CURROT)" https://github.com/psclklnk/currot.git.
